@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="style.css">
+  <style>
+    #headline {
+    text-align: center;
+    color:whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: orange;
+}
+
+.background {
+    background-color: #FFD5AF;
+}
+  </style>
+  <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
 
