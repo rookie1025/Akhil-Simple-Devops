@@ -13,11 +13,11 @@
     background-color: #FFD5AF;
 }
   </style>
-  <link rel="stylesheet" href="style.css" type="text/css">
+  <!---<link rel="stylesheet" href="style.css" type="text/css">--->
 </head>
-<body>
+<body class="background">
 
-<h1>Personal Webpage</h1>
+<h1 id="headline">Personal Webpage</h1>
 <h1>Akhil Prakash Karvanje</h1>
 <h3><a href="linkedin.com/in/akhil-karvanje">My Linkedin</a></h3>
 <h6>Contact Number: +91-70214 04394</h6>
