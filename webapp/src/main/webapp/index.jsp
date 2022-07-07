@@ -11,7 +11,7 @@
 <h3><a href="https://www.linkedin.com/in/akhil-karvanje">My Linkedin</a></h3>
 <h6>Contact Number: +91-70214 04394</h6>
 <h6>Email: akhilkarvanje@gmail.com</h6>
-<h6><a href="/Akhil_Karvanje-Resume.pdf">My Resume</a></h6>
+<h6><a href="Akhil_Karvanje-Resume.pdf">My Resume</a></h6>
 
 </body>
 </html>
