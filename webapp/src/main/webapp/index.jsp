@@ -1,19 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    #headline {
-    text-align: center;
-    color:whitesmoke;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: orange;
-}
 
-.background {
-    background-color: #FFD5AF;
-}
-  </style>
-  <!---<link rel="stylesheet" href="style.css" type="text/css">--->
+  <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body class="background">
 
@@ -22,7 +11,7 @@
 <h3><a href="linkedin.com/in/akhil-karvanje">My Linkedin</a></h3>
 <h6>Contact Number: +91-70214 04394</h6>
 <h6>Email: akhilkarvanje@gmail.com</h6>
-<h6><a href="\Akhil Karvanje - Resume.pdf">Resume</a></h6>
+<h6><a href="\Akhil_Karvanje-Resume.pdf">Resume</a></h6>
 
 </body>
 </html>
