@@ -45,7 +45,7 @@
 <p>Source Control + Build + Automatic Deployment</p>
 
 <h4>Manage Source Code Using Git & Github</h4>
-<p>Push the modified code from local repo. to remote repo.</p>
+<p>Push the modified code from local repo to remote repo</p>
 
 <h4>Installing Jenkins </h4>
 <p>
