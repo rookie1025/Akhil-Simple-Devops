@@ -134,9 +134,10 @@
 8. Add another task to push image to dockerhub. <br>
 9. Create a playbook to deploy the image on docker host. It will run on dockerhost. <br>
 10. Add a task to stop existing container. Add ignore_errors block to ignpre the error incase no container present. <br>
-11. Add a task remove the stopped coatiner and add a task to remove existing container give ignore_errors block to handle error in case no aontainer oriamge present. <br>
+11. Add a task remove the stopped continer and add a task to remove existing container give ignore_errors block to handle error in case no aontainer oriamge present. <br>
 12. Add a task to create a container from the image located in dockerhub. <br>
 </p>
-        
+
+<h4>Dockerfile, Ansible Palybooks and Kubernestes Using EKS documentation coming soon.</h4>
 </body>
 </html>
