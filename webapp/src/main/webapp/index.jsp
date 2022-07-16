@@ -47,6 +47,8 @@
 <h4>Manage Source Code Using Git & Github</h4>
 <p>Push the modified code from local repo. to remote repo.</p>
 
+<h4>Dockerfile, Ansible Palybooks and Kubernestes Using EKS documentation coming soon.</h4>
+
 <h4>Installing Jenkins </h4>
 <p>
 1. Launch EC2 instance beomce root user. <br>
